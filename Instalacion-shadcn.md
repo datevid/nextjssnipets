@@ -9,6 +9,7 @@ Instale componentes individuales:
 npx shadcn@latest add button
 npx shadcn@latest add input
 npx shadcn@latest add card
+npx shadcn@latest add select
 ```
 
 Puedes seguir la guia completa en:
