@@ -13,6 +13,12 @@ npx shadcn@latest add slider
 npx shadcn@latest add label
 npx shadcn@latest add accordion
 npx shadcn@latest add select
+
+```
+Intalar calendar
+```
+npx shadcn@latest add popover
+npx shadcn@latest add calendar
 ```
 Instale todo a la vez:
 ```
